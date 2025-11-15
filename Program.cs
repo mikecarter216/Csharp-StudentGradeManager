@@ -1,7 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
+// Struct to hold course-level information
 struct CourseInfo
 {
     public string CourseName;
@@ -13,11 +14,35 @@ struct CourseInfo
     }
 }
 
-class Student
+// Abstract base class for a person
+abstract class Person
 {
     public string Name { get; set; }
+    public Person(string name)
+    {
+        Name = name;
+    }
+
+    // Abstract method to display role
+    public abstract void PrintRole();
+}
+
+// Student class inherits from Person
+class Student : Person
+{
     public double Score { get; set; }
-    public Student(string name, double score) { Name = name; Score = score; }
+
+    public Student(string name, double score) : base(name)
+    {
+        Score = score;
+    }
+
+    // Implement abstract method
+    public override void PrintRole()
+    {
+        Console.WriteLine($"{Name} is a student.");
+    }
+
     public string GetGrade()
     {
         if (Score >= 90) return "A";
@@ -26,6 +51,7 @@ class Student
         if (Score >= 60) return "D";
         return "F";
     }
+
     public override string ToString() => $"{Name} - {Score} ({GetGrade()})";
 }
 
@@ -82,7 +108,9 @@ class Program
             Console.WriteLine("Invalid score. Try again.");
             return;
         }
-        students.Add(new Student(name, score));
+        var student = new Student(name, score);
+        student.PrintRole(); // Demonstrates the abstract method
+        students.Add(student);
         Console.WriteLine("Student added!");
     }
 
