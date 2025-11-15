@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpGradeManagerClean", "CsharpGradeManagerClean.csproj", "{EBE1F787-508C-7175-1290-A209B7337193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE1F787-508C-7175-1290-A209B7337193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE1F787-508C-7175-1290-A209B7337193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE1F787-508C-7175-1290-A209B7337193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE1F787-508C-7175-1290-A209B7337193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6CA27C-928E-4EAB-A190-BF8F6B52855A}
+	EndGlobalSection
+EndGlobal

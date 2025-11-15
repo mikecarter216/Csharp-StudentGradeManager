@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\bin\Debug\net9.0\CsharpGradeManagerClean.exe
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\bin\Debug\net9.0\CsharpGradeManagerClean.deps.json
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\bin\Debug\net9.0\CsharpGradeManagerClean.runtimeconfig.json
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\bin\Debug\net9.0\CsharpGradeManagerClean.dll
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\bin\Debug\net9.0\CsharpGradeManagerClean.pdb
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.AssemblyInfo.cs
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.dll
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\refint\CsharpGradeManagerClean.dll
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.pdb
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\CsharpGradeManagerClean.genruntimeconfig.cache
+C:\Users\USER\Documents\Csharp-Student\CsharpGradeManagerClean\obj\Debug\net9.0\ref\CsharpGradeManagerClean.dll
